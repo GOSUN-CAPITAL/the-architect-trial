@@ -38,6 +38,6 @@ We have no portal for résumés. Trust begins with action and consensus.
 
 Your first step is to solve the first riddle we have left. The first on-chain address of our empire awaits you:
 
-**`the-architect.gosun.eth`**
+**`architect.gosun.eth`**
 
 The first verse of our Genesis Codex lies there, waiting for you to uncover it.
