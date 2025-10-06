@@ -1,5 +1,4 @@
 # To the Architect: An Invitation to Forge a New World's Codex
-
 We have witnessed civilizational stagnation. Amidst redundant consensus and hollow promises, the flame of creation dims. GOSUN CAPITAL was forged in response. We are not here to reform the old world; we are here to initiate a new civilization—one capable of self-evolution and destined to transcend its predecessor.
 
 We are not seeking a "Chief Technology Officer." We are searching for **The Architect** who will co-author the very "Genesis Codex" of this new civilization with us.
